@@ -7,6 +7,15 @@ Disciplines: Biological anthropology · Evolutionary energetics · Information g
 
 ---
 
+
+* https://github.com/ericrenone/THE-GEOMETRY-OF-DESIRE
+
+* https://github.com/ericrenone/INVARIANT-ANGLE-HUMAN-EVOLUTION
+
+* https://github.com/ericrenone/MEASUREMENT-DRIVEN-DESIRE-COEVOLUTIONARY-INFORMATION-ARCHITECTURE-IN-SEXUAL-SELECTION
+
+---
+
 ## EXECUTIVE INTEGRATION
 
 Dr. William R. Leonard's research on human energy metabolism, nutritional adaptation, and the evolutionary constraints of brain expansion reveals a fundamental phenomenon: human metabolic phenotypes emerge through measurement-constrained optimization within ancestral ecological and social coevolutionary systems. The ERIE-Evolution framework—grounded in quantum Darwinian measurement principles—explains why Leonard's empirical findings converge: organisms evolve to asymmetric configurations that optimize information transmission about metabolic state through their coevolutionary environment.
